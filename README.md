@@ -39,3 +39,5 @@ The following entities were identified and included in the database design:
 - **Complex Queries**:
   - **Query 1**: Retrieves the top 10 most popular food items ordered at a restaurant.
   - **Query 2**: Retrieves orders with a "failure" status in the payment, along with the customer's name and the time of the order.
+
+![](Revised_ERD.drawio.png)
